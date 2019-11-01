@@ -6,7 +6,7 @@ package com.devops.training.mavendemo;
  */
 public class App 
 {
-    public staticA void main( String[] args )
+    public static void main( String[] args )
     {
         System.out.println( "Hello Asif!" );
     }
